@@ -1,9 +1,6 @@
 var login = require("facebook-chat-api");
 var sys = require('sys')
 var exec = require('child_process').exec;
-function puts(error, stdout, stderr) { console.log(stdout) }
- 
-// Create simple echo bot 
 login({email: "YOURFACEBOOKEMAIL", password: "YOURFACEBOOKPW"}, function callback (err, api) {
     if(err) return console.error(err);
  
