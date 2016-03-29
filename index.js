@@ -8,7 +8,7 @@ function getStringLiteral(theFunction) {
 
 login({
 	email: "andy@hackgician.net",
-	password: "mamama"
+	password: "ur pw"
 }, function callback(err, api) {
 	if (err) return console.error(err);
 
