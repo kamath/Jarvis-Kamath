@@ -3,9 +3,9 @@
 ##Installation
 Basically I took shpotify and the facebook-chat-api npm package and turned Facebook Messenger into an ssh client. All you need to do is 
 
-1) clone the repo 
-2) change your email and password in index.js
-3) run <code>~$ cd fb-chat-ssh && npm install && node index.js</code>
+1. clone the repo 
+2. change your email and password in index.js
+3. run <code>~$ cd fb-chat-ssh && npm install && node index.js</code>
 
 and you should be golden
 
