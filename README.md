@@ -1,4 +1,6 @@
-#Bot Kamath
+#Jarvis Kamath
+
+It's just a really basic version of Zuckerburg's Jarvis. It's pretty sweet if you ask me. It can control your computer via Facebook messenger, involving playing music and saying stuff.
 
 ##Demo:
 [See demo on YouTube](https://www.youtube.com/watch?v=DGitU0iMVVk)
