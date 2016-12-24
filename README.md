@@ -8,8 +8,9 @@ It's just a really basic version of Zuckerburg's Jarvis. It's pretty sweet if yo
 ##Installation
 Basically I took shpotify and the facebook-chat-api npm package and turned Facebook Messenger into an ssh client. All you need to do is 
 
-1. clone the repo 
-2. change your email and password in index.js
+1. clone the repo <br>git clone http://github.com/andykamath/Jarvis-Kamath && cd Jarvis-Kamath</code>
+2. change your email and password in the index.js file
+3. Install [Shpotify](https://github.com/hnarayanan/shpotify) in the root directory <br><code>git clone https://github.com/hnarayanan/shpotify && mv spotify ../</code>
 3. run <code>~$ cd fb-chat-ssh && npm install && node index.js</code>
 
 and you should be golden
