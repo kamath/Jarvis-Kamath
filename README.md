@@ -15,7 +15,7 @@ Basically I took shpotify and the facebook-chat-api npm package and turned Faceb
 
 and you should be golden
 
-##T hings it can do
+## Things it can do
 * Display commands - "show commands"
 * Control your music - "music [play|pause|next|prev|vol up/down]"
 * Set passwords - "pw [site, i.e. facebook] [password, i.e. hunter21]"
